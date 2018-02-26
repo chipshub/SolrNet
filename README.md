@@ -2,9 +2,10 @@
 ## I will still need to figure out what happens if i select the commited changes on the branch and try to edit 
 
 
-
-
 ## SolrNet is an [Apache Solr](http://lucene.apache.org/solr/) and SolrCloud client for .NET
+
+## First Commit of New Doc
+This is the first commit of new doc
 
 
 SolrNet does not attempt to abstract much over Solr, it's assumed that you know what Solr is and how to use it, just as you need to know relational databases before using an ORM.
