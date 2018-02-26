@@ -83,6 +83,12 @@ You can find the latest builds on our AppVeyor build service: [![Build status](h
 
  ### Contributing
 
+## Line 86 
+That should generate a conflict 
+
+
+
+
 See [Contributing](contributing.md)
 
 ### Release notes
