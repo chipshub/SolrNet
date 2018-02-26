@@ -1,6 +1,6 @@
 ## SolrNet is an [Apache Solr](http://lucene.apache.org/solr/) and SolrCloud client for .NET
 
-## Well lets give it a shot. I am on a newdoc2 branch. Now this file has already been commited so lets see what happens when i click save 
+
 SolrNet does not attempt to abstract much over Solr, it's assumed that you know what Solr is and how to use it, just as you need to know relational databases before using an ORM.
 
 If you're not familiar with Solr, take your time to follow the [Solr tutorial](http://lucene.apache.org/solr/tutorial.html), see the [FAQ](http://wiki.apache.org/solr/FAQ) and the [docs](http://wiki.apache.org/solr/FrontPage ). Consider getting a [book](http://lucene.apache.org/solr/books.html).
