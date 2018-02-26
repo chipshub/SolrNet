@@ -1,3 +1,9 @@
+## Now I am under new doc and i dont see the line that i saw before so now let me commit this and see what happens. 
+## I will still need to figure out what happens if i select the commited changes on the branch and try to edit 
+
+
+
+
 ## SolrNet is an [Apache Solr](http://lucene.apache.org/solr/) and SolrCloud client for .NET
 
 
