@@ -1,19 +1,4 @@
-
-## First change  
-this is my first change 
-
-
-
-##Git Issues 
-Now I am going to commit this file through idea. I am now assuming I am making changes to the code and then see if it happens on git.
-
-## Second Change 
-But i do want to have a second change in here as well. That will help me oout 
-
 ## SolrNet is an [Apache Solr](http://lucene.apache.org/solr/) and SolrCloud client for .NET
-
-
-
 
 ## Well lets give it a shot. I am on a newdoc2 branch. Now this file has already been commited so lets see what happens when i click save 
 SolrNet does not attempt to abstract much over Solr, it's assumed that you know what Solr is and how to use it, just as you need to know relational databases before using an ORM.
@@ -24,8 +9,7 @@ If you're not familiar with Solr, take your time to follow the [Solr tutorial](h
 
 ### Downloads
 
-
-from here i deleted something so i am now pushing it
+The easiest way to get going is to use our NuGet packages:
 
 #### Solr 
 
@@ -84,8 +68,3 @@ See [Contributing](contributing.md)
 ### Release notes
 
 See [Change Log](changelog.md)
-
-
-## Last Changes 
-
-Finally I am going to apply my last changes here 
