@@ -19,6 +19,13 @@ The easiest way to get going is to use our NuGet packages:
 
 #### Solr 
 
+
+## New Doc 2
+This is the second commit from new doc 2. Now I would like to check 
+what happens to the graphic lines 
+
+
+
 | Package | Description | .NET Framework | .NET Standard |
 |:-------:|:-----------:|:--------------:|:-------------:|
 |[SolrNet.Core](https://www.nuget.org/packages/SolrNet.Core/) | Core library, best used with one of the DI integration packages | 4.6 | 2.0 |
