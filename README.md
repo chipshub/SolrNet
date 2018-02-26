@@ -4,7 +4,14 @@ This commit is the first from new doc 2
 
 
 
+## Now I am under new doc and i dont see the line that i saw before so now let me commit this and see what happens. 
+## I will still need to figure out what happens if i select the commited changes on the branch and try to edit 
+
+
 ## SolrNet is an [Apache Solr](http://lucene.apache.org/solr/) and SolrCloud client for .NET
+
+## First Commit of New Doc
+This is the first commit of new doc
 
 
 SolrNet does not attempt to abstract much over Solr, it's assumed that you know what Solr is and how to use it, just as you need to know relational databases before using an ORM.
@@ -81,3 +88,8 @@ See [Contributing](contributing.md)
 ### Release notes
 
 See [Change Log](changelog.md)
+
+
+## Second commit in new doc 
+Really curious to see what happens 
+
