@@ -1,3 +1,9 @@
+## New Doc 2 
+This commit is the first from new doc 2 
+
+
+
+
 ## SolrNet is an [Apache Solr](http://lucene.apache.org/solr/) and SolrCloud client for .NET
 
 
