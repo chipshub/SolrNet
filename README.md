@@ -82,3 +82,6 @@ Really curious to see what happens
 
 ## Checkout New Documentation 
 Now I am going to commit this 
+
+So now I want to commit something that might cause a conflict. Lets see if i can make create this
+problem by applying it to same line
